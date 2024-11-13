@@ -1,1 +1,1 @@
-gcc -o build/Assembler.exe src/Main.c src/Lexxer.c
+gcc -o build/dl.exe src/Main.c src/Lexxer.c

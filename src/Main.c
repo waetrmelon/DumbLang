@@ -5,7 +5,7 @@
 
 int main(){
    FILE *file;
-   char filename[] = "C:\\Users\\cheem\\OneDrive\\Desktop\\Programming Shizzles\\MidgetAssembler\\tests\\Declare.asm";
+   char filename[] = "C:\\Users\\cheem\\OneDrive\\Desktop\\Programming Shizzles\\MidgetAssembler\\tests\\Declare.dl";
    char *buffer = NULL; // initialize buffer to NULL
    int buffer_size = 0;
    int i = 0;
